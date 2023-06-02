@@ -38,7 +38,7 @@ public class Sala {
     }
 
     void exibeDadosSala() {
-        System.out.println("Número: " + getNumero() +
+        System.out.println("Sala número: " + getNumero() +
                 "\nAndar: " + getAndar() +
                 "\nCapacidade: " + getCapacidade());
     }
